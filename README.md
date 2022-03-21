@@ -1,6 +1,5 @@
-# A Simple Digital Poem
-
-A simple digital poem that builds each line from three lists created as an example for the Horizons Digital Writing lab.
+# Running in my Bed
+A remix of We Walk To You.
 
 ## Made on [Glitch](https://glitch.com/)
 
